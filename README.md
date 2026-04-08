@@ -1,2 +1,2 @@
-# ProgramacaoC
-PROJETOS INICIAIS C
+# C++
+PROJETOS C++
